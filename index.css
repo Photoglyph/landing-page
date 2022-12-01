@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>The Landing Page</title>
+  </head>
+  <body>
+   <header> <h1>The Lading Page</h1></header>
+
+   <div>
+        <section        
+            <h2>Our Mission</h2>
+        <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+        voluptates, quod, quia, voluptate quae voluptatem quidem voluptas
+        doloremque quos quibusdam nesciunt. Quisquam, quae. Quisquam, quae.
+        Quisquam, quae. Quisquam, quae.
+        </p>
+        </section>
+
+        <section>
+            <h2> Our Team</h2>
+            <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          voluptates, quod, quia, voluptate quae voluptatem quidem voluptas
+          doloremque quos quibusdam nesciunt. Quisquam, quae. Quisquam, quae.
+          Quisquam, quae. Quisquam, quae.
+          </p>
+          </section>
+        
+
+          <section>
+                <h2>Our Services</h2>
+                <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+                voluptates, quod, quia, voluptate quae voluptatem quidem voluptas
+                doloremque quos quibusdam nesciunt. Quisquam, quae. Quisquam, quae.
+                Quisquam, quae. Quisquam, quae.
+                </p>
+            </section>
+
+    /* TODO Use this 'div' for background image. */
+    <div>
+        <section>
+            <h2>Call to Action</h2>
+            <p>Sign up for our newlsett!</p>
+            <form>
+        <label form="email">Email</lable>
+    <input type="email" id="email" placeholder="Enter your email">
+    <button type="submit">Sign Up</button>
+    </form>
+
+        </section>
+
+    </div>
+    <main>
+  </body>
+</html>
